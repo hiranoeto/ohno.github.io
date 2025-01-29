@@ -1,3 +1,6 @@
-h3 {
-  color: #74DF00;
+ 
+.gradient { 
+	background:linear-gradient(#56C500, #fff); 
+	height: 500px;
+	border: 1px solid #333;
 }
